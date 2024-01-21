@@ -293,6 +293,14 @@ footer {
         flex-direction: column;
         gap: 20px;
     }
+    .sponsors-company{
+        flex-direction: column;
+        text-align: center;
+    }
+    footer{
+        margin: 20px;
+        padding: 20px;
+    }
 
 }
 
@@ -370,4 +378,13 @@ footer {
         grid-template-columns: repeat(2, 1fr);
         gap: 20px;
     }
+    .sponsors-company{
+        flex-direction: column;
+        text-align: center;
+    }
+    footer{
+        margin: 40px;
+        padding: 40px;
+    }
+
 }
