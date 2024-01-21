@@ -125,6 +125,10 @@ nav a {
     display: flex;
     position: relative;
 }
+.features-text-heading{
+    border-left: 5px solid  #FF900E;
+    padding-left: 10px;
+}
 
 .features-pic {
     width: 100%;
